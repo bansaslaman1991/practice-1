@@ -21,4 +21,4 @@ console.log(friends[2]);
 console.log("length of array",friends.length);
 console.log(myObject.profession);
 console.log(myObject['email']);
-console.log("hello World")
+console.log("Hello World")
